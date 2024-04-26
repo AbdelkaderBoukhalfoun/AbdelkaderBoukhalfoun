@@ -22,7 +22,7 @@
 
 
 <p align="left">
-<a href[="https://linkedin.com/in/abdelkader-boukhalfoun](https://www.linkedin.com/in/abdelkader-boukhalfoun-4722b1305/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkader-boukhalfoun" height="30" width="40" /></a>
+<a href[=["https://linkedin.com/in/abdelkader-boukhalfoun](https://www.linkedin.com/in/abdelkader-boukhalfoun-4722b1305/)](https://www.linkedin.com/in/abdelkader-boukhalfoun-4722b1305/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkader-boukhalfoun" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24655765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24655765" height="30" width="40" /></a>
 <a href="https://instagram.com/axonekak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axonekak" height="30" width="40" /></a>
 </p>
