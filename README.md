@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm @Abdelkader-Boukhalfoun</h1>
+<h1 align="center">Hi 👋, I'm Abdelkader Boukhalfoun</h1>
 <h3 align="center">Front-End Developer</h3>
-
-<img align="right" alt="coding" width="400" src="![image](https://github.com/AbdelkaderBoukhalfoun/hello-world/assets/168213456/b74ac090-638e-4f97-b08e-f4d668eb7d32)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelkaderboukhalfoun&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkaderboukhalfoun" /> </p>
 
