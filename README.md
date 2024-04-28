@@ -34,14 +34,35 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<th/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdelkaderBoukhalfoun&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkaderBoukhalfoun&theme=radical&hide_border=false">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBoukhalfoun&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</p>
+
+
+
 
 
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbdelkaderBoukhalfoun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
