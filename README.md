@@ -58,7 +58,7 @@
 
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
+  <h2>🏆 GitHub Trophies</h2>
 </div>
 <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBoukhalfoun&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Random Dev Quote">
 
@@ -66,7 +66,7 @@
 
 
 <div align="center">
-  <h3>✍️ Random Dev Quote</h3>
+  <h2>✍️ Random Dev Quote</h2>
 </div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
