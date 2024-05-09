@@ -72,3 +72,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
+
+
+![Snake animation](https://raw.githubusercontent.com/AbdelkaderBoukhalfoun/AbdelkaderBoukhalfoun/output/github-contribution-grid-snake-dark.svg)
