@@ -1,7 +1,7 @@
 ![logo](https://github.com/AbdelkaderBoukhalfoun/hello-world/blob/main/Github%20Banner.png)
 <h3 align="center">Front-End Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelkaderboukhalfoun&label=Profile%20views&color=0e75b6&style=flat" alt="abdelkaderboukhalfoun" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdelkaderboukhalfoun&label=Profile%20views&color=blue&style=flat" alt="abdelkaderboukhalfoun" /> </p>
 
 ### 📝 My Topic:
 
