@@ -74,4 +74,3 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/AbdelkaderBoukhalfoun/AbdelkaderBoukhalfoun/output/github-contribution-grid-snake-dark.svg)
