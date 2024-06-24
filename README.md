@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelkader-boukhalfoun-4722b1305/"><img src="https://skillicons.dev/icons?i=linkedin" alt="abdelkader-boukhalfoun"/></a>
 <a href="https://instagram.com/axonekak" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="axonekak"/></a>
-<a href="https://codepen.io/Abdelkader-Boukhalfoun" target="blank"><img src="https://skillicons.dev/icons?i=codepen" alt="axonekak"/></a>
+<a href="https://codepen.io/AbdelkaderBoukhalfoun" target="blank"><img src="https://skillicons.dev/icons?i=codepen" alt="axonekak"/></a>
 <a href="https://stackoverflow.com/users/24655765" target="blank"><img  src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 </p>
 
