@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdelkaderboukhalfoun@gmail.com**
 
-- ⚡ Fun fact **I Play Video Games 🎮**
+- ⚡ Fun fact **I'm Addicted To Building Projects 🎮**
 
 
 
