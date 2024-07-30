@@ -39,7 +39,7 @@
 ## 🛠️ Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,git,docker,npm,redux,vite,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,git,docker,yarn,npm,redux,vite,vscode,windows" />
   </a>
 </p>
 
