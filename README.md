@@ -29,10 +29,10 @@
 
 
 
-## 💻 Languages:
+## 💻 Languages ann Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,git,docker,yarn,npm,redux,vite,vscode,windows,graphql" />
   </a>
 </p>
 
