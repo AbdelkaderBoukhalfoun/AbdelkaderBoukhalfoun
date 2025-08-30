@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **abdelkaderboukhalfoun@gmail.com**
 
