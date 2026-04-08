@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdelkaderboukhalfoun@gmail.com**
 
-- ⚡ Fun fact **I enjoy continuously building and experimenting with new projects**
+- ⚡ Fun fact **I Was A Front-end Engineer Before**
 
 
 
