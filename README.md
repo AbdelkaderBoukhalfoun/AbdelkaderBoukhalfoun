@@ -32,7 +32,7 @@
 ## 💻 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,bash,python,githubactions,git,ts,react,nextjs,tailwind,graphql "/>
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,bash,python,fastapi,githubactions,git,ts,react,nextjs,tailwind,graphql "/>
   </a>
 </p>
 
