@@ -13,9 +13,6 @@
 
 ## 🌐 Socials:
  
-
-
-
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelkader-boukhalfoun-4722b1305/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="https://x.com/Abdelkader94883" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
@@ -49,7 +46,6 @@ src="https://github-readme-stats.shion.dev/api?username=AbdelkaderBoukhalfoun&th
 src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbdelkaderBoukhalfoun&theme=tokyonight&hide_border=false&layout=compact&langs_count=6" />
 
 </div>
-
 
 <div align="center">
   <h2>✍️ Random Dev Quote</h2>
